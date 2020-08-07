@@ -171,7 +171,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <li class="mb-2">
                                     <i class="fa fa-check mr-3"></i> Education with clinical Medicine..</li>
                                 <li class="mb-2">
-                                    <i class="fa fa-check mr-3"></i>Learn everything on a traditional </li>
+                                    <i class="fa fa-check mr-3"></i>Learn everything on a traditional whiteboard</li>
                                 <li class="mb-2">
                                     <i class="fa fa-check mr-3"></i>Specially focus on students week areas</li>
                                 <li class="mb-2">
