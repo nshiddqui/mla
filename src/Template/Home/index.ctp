@@ -171,11 +171,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <li class="mb-2">
                                     <i class="fa fa-check mr-3"></i> Education with clinical Medicine..</li>
                                 <li class="mb-2">
-                                    <i class="fa fa-check mr-3"></i>Lern everything on a traditional </li>
+                                    <i class="fa fa-check mr-3"></i>Learn everything on a traditional </li>
                                 <li class="mb-2">
                                     <i class="fa fa-check mr-3"></i>Specially focus on students week areas</li>
                                 <li class="mb-2">
-                                    <i class="fa fa-check mr-3"></i>corporis suscipit laboriosam</li>
+                                    <i class="fa fa-check mr-3"></i>Deeper level of learning..</li>
                             </ul>
                         </div>
                     </div>
@@ -393,10 +393,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">special education</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fas fa-long-arrow-alt-right ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -409,10 +405,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">full day session</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fa fa-long-arrow-alt-right ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -425,10 +417,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">qualified teachers</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fa fa-long-arrow-alt-right ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -443,10 +431,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">events</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fa fa-calendar ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -459,10 +443,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">pre classes</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fa fa-long-arrow-alt-right ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -475,10 +455,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="col-9 agile-why-text-2">
                                 <h4 class="text-capitalize text-white font-weight-bold mb-3">24/7 supports</h4>
-                                <p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-                                <a class="btn mt-3 service-button p-0" href="about.html" role="button">Read More
-                                    <i class="fa fa-users ml-1"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -571,7 +547,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="news-text">
                             <div class="news-events-agile event-colo1 py-2 px-3">
                                 <h5 class="float-left">
-                                    <a href="blog.html" class="text-white">07 May</a>
+                                    <a href="blog.html" class="text-white">07 Aug</a>
                                 </h5>
                                 <div class="post-img float-right">
                                     <ul>
@@ -596,12 +572,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="detail-bottom">
                                 <h6 class="my-3">
-                                    <a href="blog.html" class="text-dark">
-                                        Eiusmod tempor incididunt ut labore sed do eiusmod
+                                    <a href="#" class="text-dark">
+                                        Upcoming video RBCs indices part 3 on YouTube.
                                     </a>
                                 </h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore sed do eiusmod
-                                    tempor incididunt ut labore</p>
                             </div>
                         </div>
                     </div>
@@ -612,7 +586,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="news-text">
                             <div class="news-events-agile py-2 px-3">
                                 <h5 class="float-left">
-                                    <a href="blog.html" class="text-white">07 May</a>
+                                    <a href="blog.html" class="text-white">07 Aug</a>
                                 </h5>
                                 <div class="post-img float-right">
                                     <ul>
@@ -637,12 +611,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="detail-bottom">
                                 <h6 class="my-3">
-                                    <a href="blog.html" class="text-dark">
-                                        Eiusmod tempor incididunt ut labore sed do eiusmod
+                                    <a href="#" class="text-dark">
+                                        Free session on Basic Anatomy for Registered students..
                                     </a>
                                 </h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore sed do eiusmod
-                                    tempor incididunt ut labore</p>
                             </div>
                         </div>
                     </div>
@@ -653,7 +625,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="news-text">
                             <div class="news-events-agile event-colo3 py-2 px-3">
                                 <h5 class="float-left">
-                                    <a href="blog.html" class="text-white">07 May</a>
+                                    <a href="blog.html" class="text-white">07 Aug</a>
                                 </h5>
                                 <div class="post-img float-right">
                                     <ul>
@@ -678,12 +650,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                             <div class="detail-bottom">
                                 <h6 class="my-3">
-                                    <a href="blog.html" class="text-dark">
-                                        Eiusmod tempor incididunt ut labore sed do eiusmod
+                                    <a href="#" class="text-dark">
+                                        COVID-19 affects different people in different ways. 
                                     </a>
                                 </h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore sed do eiusmod
-                                    tempor incididunt ut labore</p>
                             </div>
                         </div>
                     </div>
