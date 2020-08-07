@@ -703,7 +703,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="copyright-agiles py-3">
                 <div class="container">
                     <div class="row">
-                        <p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 Edulearn. All Rights Reserved</p>
+                        <p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2020 Medical Lectures Academy. All Rights Reserved</p>
                         <!-- social icons -->
                         <div class="social-icons text-lg-right text-center col-lg-4 mt-lg-0 mt-3">
                             <ul class="list-unstyled">
