@@ -101,6 +101,7 @@ class ComposerStaticInit885bf72d030d675ee1f4c38180c0929d
             'DeepCopy\\' => 9,
             'DebugKit\\Test\\Fixture\\' => 22,
             'DebugKit\\' => 9,
+            'DataTables\\' => 11,
         ),
         'C' => 
         array (
@@ -266,6 +267,10 @@ class ComposerStaticInit885bf72d030d675ee1f4c38180c0929d
         'DebugKit\\' => 
         array (
             0 => __DIR__ . '/..' . '/cakephp/debug_kit/src',
+        ),
+        'DataTables\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/allanmcarvalho/cakephp-datatables/src',
         ),
         'Composer\\XdebugHandler\\' => 
         array (
