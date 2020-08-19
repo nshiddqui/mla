@@ -54,8 +54,6 @@
                     <!-- /.col -->
                 </div>
                 <?= $this->Form->end() ?>
-                <hr>
-                <?= $this->Html->link('I forgot my password', ['controller' => 'users', 'action' => 'forgot']) ?>
             </div>
             <!-- /.login-box-body -->
         </div>

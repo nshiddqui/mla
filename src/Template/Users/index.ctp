@@ -1,9 +1,9 @@
 <?php
-$this->assign('title', 'Clients');
+$this->assign('title', 'Students');
 ?>
 <div class="box">
     <div class="box-header">
-        <h3 class="box-title">List Clients</h3>
+        <h3 class="box-title">List Students</h3>
     </div>
     <!-- /.box-header -->
     <div class="box-body">

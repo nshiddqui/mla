@@ -99,7 +99,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                     </div>
                                 </div>
                                 <div class="col-sm-2 col-6 top-login-butt text-right mt-sm-2">
-                                    <a href="#" class="button-head-mow3 text-white">Login</a>
+                                    <?= $this->Html->link('Login', ['controller' => 'users', 'action' => 'login'], ['class' => 'button-head-mow3 text-white']) ?>
                                 </div>
                             </div>
                         </div>

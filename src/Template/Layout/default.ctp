@@ -43,8 +43,6 @@
         <?= $this->Html->component('jquery/dist/jquery.min', 'script') ?>
         <!-- Bootstrap 3.3.7 -->
         <?= $this->Html->component('bootstrap/dist/js/bootstrap.min', 'script') ?>
-        <!-- chartsjs -->
-        <?= $this->Html->script('Chart') ?>
 
 
         <!-- SlimScroll -->
@@ -87,13 +85,15 @@
 
             <!-- Content Wrapper. Contains page content -->
             <div class="content-wrapper">
-                <!-- Content Header (Page header) -->
-                <section class="content-header">
-                    <h1>
-                        <?= $this->fetch('title') ?>
-                        <small><?= $this->fetch('title-descition') ?></small>
-                    </h1>
-                </section>
+                <?php if (!empty(trim($this->fetch('title')))) { ?>
+                    <!-- Content Header (Page header) -->
+                    <section class="content-header">
+                        <h1>
+                            <?= $this->fetch('title') ?>
+                            <small><?= $this->fetch('title-descition') ?></small>
+                        </h1>
+                    </section>
+                <?php } ?>
 
                 <!-- Main content -->
                 <section class="content">

@@ -36,20 +36,24 @@
             </div>
             <!-- /.login-logo -->
             <div class="login-box-body">
-                <p class="login-box-msg">Change Your Password</p>
+                <p class="login-box-msg">Sign in to start your session</p>
                 <?= $this->Flash->render() ?>
-                <!-- Forgot Password form start here -->
-                <?= $this->Form->create($userDetails, ['class' => 'user']) ?>
-                <!-- Enter Password -->
-                <?= $this->Form->control('password', ['label' => false, 'placeholder' => 'Password', 'required' => true]) ?>
-                <!-- Enter Confirmed Password -->
-                <?= $this->Form->control('confirm_password', ['label' => false, 'type' => 'password', 'required' => true, 'placeholder' => 'Confirm Password', 'required' => true]) ?>
-                <!-- Trigger to Send Password -->
-                <?= $this->Form->button('Change Password', ['class' => 'btn btn-primary btn-user btn-block']) ?>
-                <!-- End Form Element -->
+                <?= $this->Form->create() ?>
+                <div class="form-group has-feedback">
+                    <?= $this->Form->control('email', ['placeholder' => 'Email', 'label' => false]) ?>
+                    <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+                </div><div class="form-group has-feedback">        
+                    <?= $this->Form->control('password', ['placeholder' => 'Password', 'label' => false,]) ?>
+                    <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                </div>
+                <div class="row">
+                    <!-- /.col -->
+                    <div class="col-md-offset-4 col-md-4">
+                        <?= $this->Form->button('Sign In', ['class' => 'btn btn-primary btn-block btn-flat']) ?>
+                    </div>
+                    <!-- /.col -->
+                </div>
                 <?= $this->Form->end() ?>
-                <hr>
-                <?= $this->Html->link('login', ['controller' => 'users', 'action' => 'login']) ?>
             </div>
             <!-- /.login-box-body -->
         </div>

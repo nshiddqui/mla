@@ -2,6 +2,8 @@
 
 namespace App\Model\Table;
 
+use Cake\ORM\Table;
+
 class DropdownsTable extends Table {
 
     public function findstatus() {
@@ -27,7 +29,7 @@ class DropdownsTable extends Table {
         return $subjects;
     }
 
-    public function cources() {
+    public function courses() {
         $status = ['pure' => 'Pure', 'rough' => 'Rough', 'stonesilver' => 'Stone & Silver'];
         return $status;
     }

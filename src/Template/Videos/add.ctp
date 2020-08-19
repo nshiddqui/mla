@@ -1,10 +1,10 @@
 <?php
-$this->assign('title', 'Students');
+$this->assign('title', 'Video');
 ?>
 <!-- Default box -->
 <div class="box">
     <div class="box-header with-border">
-        <h3 class="box-title"><?= __('Edit Student') ?></h3>
+        <h3 class="box-title"><?= __('Add Video') ?></h3>
 
         <div class="box-tools pull-right">
             <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -13,20 +13,17 @@ $this->assign('title', 'Students');
                 <i class="fa fa-times"></i></button>
         </div>
     </div>
-    <?= $this->Form->create($user) ?>
+    <?= $this->Form->create($video, ['type' => 'file']) ?>
     <div class="box-body">
         <?php
-        echo $this->Form->control('name');
-        echo $this->Form->control('email');
-        echo $this->Form->control('date_of_birth', ['type' => 'text', 'datepicker' => true, 'value' => date('Y-m-d', strtotime($user->date_of_birth))]);
-        echo $this->Form->control('course', ['options' => $courses]);
-        echo $this->Form->control('address');
-        echo $this->Form->control('password', ['value' => '', 'required' => false]);
+        echo $this->Form->control('title');
+        echo $this->Form->control('subject', ['options' => $subjects]);
+        echo $this->Form->control('video', ['type' => 'file']);
         ?>
     </div>
     <!-- /.box-body -->
     <div class="box-footer">
-        <?= $this->Form->button(__('Update')) ?>
+        <?= $this->Form->button(__('Add')) ?>
     </div>
     <?= $this->Form->end() ?>
     <!-- /.box-footer-->
